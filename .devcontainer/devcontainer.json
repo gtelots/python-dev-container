@@ -1,0 +1,5 @@
+// Info https://containers.dev/implementors/json_reference/
+{
+	"name": "python3",
+	"image": "python:3.11-slim"
+}
